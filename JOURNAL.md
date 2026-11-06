@@ -28,4 +28,5 @@ as they sag overtime and balance it out in code.
 used fusion 360 and all of the components in my hand to design space for the 3x 18650 batteries, stm32 nucleof401re, hc-05 bluetooth module,
 QTR 8A infrared sensor, 2 custom silicon molded wheels, n20 12v 2000 rpm motors, 2 DRV8871 motor driving module, buck converter and a ball caster.
 i used brass heat inserts to thread m3 nuts and hold the development board, battery and driver modules.
+![robot body picture](robot body picture.png)
 **Total time spent: 2 hours**
