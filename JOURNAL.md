@@ -27,3 +27,11 @@ QTR 8A infrared sensor, 2 custom silicon molded wheels, n20 12v 2000 rpm motors,
 i used brass heat inserts to thread m3 nuts and hold the development board, battery and driver modules.
 ![robot-body-picture](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20picture.png)
 **Total time spent: 2 hours**
+
+# November 6th: adjusted the body dimensions
+yesterdays main body was complex but vague. the dimensions of the holes and shapes where mostly estimates to get a better overall view and catch any inherent
+flaws in the design before commiting full detail. today i committed full detail as much as i can and will start testing tolerances to see if things fit or i have 
+to tweak their values. the most dreadful and time consuming part is coming soon. i will try to film the lapse when i tweak and pause when i am printing to keep it 
+clean and fair. the tolerance will probably span today tomorrow and maybe 2 more days after😭😭.
+![robot-body-v2](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20v2.png)
+**Total time spent: 1 hour**
