@@ -4,12 +4,9 @@ author: youssef kandil
 description: completely custom built PID line follower
 created_at: 2026-11-5
 ---
-# before November 1st:
-did research and made the order
-
 
 # November 1st: received components
-![order image1](https://github.com/candleman28/PID-line-follower-robot/blob/main/BOM1.png))
+![](https://github.com/candleman28/PID-line-follower-robot/blob/main/BOM1.png))
 ![order image2](https://github.com/candleman28/PID-line-follower-robot/blob/main/BOM2.png))
 ![order image3](https://github.com/candleman28/PID-line-follower-robot/blob/main/BOM3.png))
 ![order image4](https://github.com/candleman28/PID-line-follower-robot/blob/main/BOM4.png)
