@@ -38,7 +38,7 @@ fixed the tpu and petg frames within 2 iterations each
 all in all tolerance testing took around 1 hour of measurement and tweaking (excluding printing and setup/ debugging time).
 detail tweaks before tolerance testing took 1 hour so overall 2 hours today with more tolerance testing on the way.
 ![robot-body-v2](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20v2.png)
-![iterations image](https://github.com/candleman28/PID-line-follower-robot/blob/main/nov%207th%20iterations.jpg)
+![iterations image](https://github.com/candleman28/PID-line-follower-robot/raw/main/nov%207th%20iterations.jpg)
 
 **Total time spent: 2 hours**
 
