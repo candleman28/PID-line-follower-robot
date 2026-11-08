@@ -30,8 +30,17 @@ i used brass heat inserts to thread m3 nuts and hold the development board, batt
 
 # November 6th: adjusted the body dimensions
 yesterdays main body was complex but vague. the dimensions of the holes and shapes where mostly estimates to get a better overall view and catch any inherent
-flaws in the design before commiting full detail. today i committed full detail as much as i can and will start testing tolerances to see if things fit or i have 
-to tweak their values. the most dreadful and time consuming part is coming soon. i will try to film the lapse when i tweak and pause when i am printing to keep it 
-clean and fair. the tolerance will probably span today tomorrow and maybe 2 more days after😭😭.
+flaws in the design before committing full detail. today i committed full detail as much as i can and started testing. for context the wheel molding includes an outer petg frame an inner tpu cylinder which acts as the actual mold. the petg frame supports and prevents the inner tpu mold from flexing and ruining the wheel shape. the lid holds the petg wheel core tightly and suspends it in the middle of the 2 molds with its inner rim tightly fitting with the tpu inner mold and the outer rim fitting tightly with the outer petg frame. the main robot body has a caster slot which allows the free moving ball caster to both press fit and get screwed on. the wheel petg core has a D slot for the D shaft of the N20 motor. todays tolerance tests:
+fixed the caster within 3 iterations
+fixed the lid with 2 rims within 4 iterations
+fixed the d shaft within 2 iterations
+fixed the tpu and petg frames within 2 iterations each
+all in all tolerance testing took around 1 hour of measurement and tweaking (excluding printing and setup/ debugging time).
+detail tweaks before tolerance testing took 1 hour so overall 2 hours today with more tolerance testing on the way.
 ![robot-body-v2](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20v2.png)
-**Total time spent: 1 hour**
+![iterations image](https://github.com/candleman28/PID-line-follower-robot/blob/main/nov%207th%20iterations.jpg)
+
+**Total time spent: 2 hours**
+
+
+
