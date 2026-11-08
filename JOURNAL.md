@@ -28,7 +28,7 @@ i used brass heat inserts to thread m3 nuts and hold the development board, batt
 ![robot-body-picture](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20picture.png)
 **Total time spent: 2 hours**
 
-# November 6th: adjusted the body dimensions
+# November 6th: adjusted the body dimensions and started tolerance/fit testing each part of the body individually
 yesterdays main body was complex but vague. the dimensions of the holes and shapes where mostly estimates to get a better overall view and catch any inherent
 flaws in the design before committing full detail. today i committed full detail as much as i can and started testing. for context the wheel molding includes an outer petg frame an inner tpu cylinder which acts as the actual mold. the petg frame supports and prevents the inner tpu mold from flexing and ruining the wheel shape. the lid holds the petg wheel core tightly and suspends it in the middle of the 2 molds with its inner rim tightly fitting with the tpu inner mold and the outer rim fitting tightly with the outer petg frame. the main robot body has a caster slot which allows the free moving ball caster to both press fit and get screwed on. the wheel petg core has a D slot for the D shaft of the N20 motor. todays tolerance tests:
 fixed the caster within 3 iterations
