@@ -4,3 +4,10 @@ hello my name is youssef kandil i am a 17 year old egyptian living in kuwait. th
 ![robot_body_picture](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20picture.png)
 ![robot_body_v2](https://github.com/candleman28/PID-line-follower-robot/raw/main/robot%20body%20v2.png)
 ![iterations](https://github.com/candleman28/PID-line-follower-robot/raw/main/nov%207th%20iterations.jpg)
+
+
+Bill of materials (BOM)
+![BOM1](https://github.com/candleman28/PID-line-follower-robot/raw/main/BOM1.png)
+![BOM2](https://github.com/candleman28/PID-line-follower-robot/raw/main/BOM2.png)
+![BOM3](https://github.com/candleman28/PID-line-follower-robot/raw/main/BOM3.png)
+![BOM3](https://github.com/candleman28/PID-line-follower-robot/raw/main/BOM4.png)
